@@ -1,0 +1,35 @@
+
+    body {
+        background-color:#EAF6F6;
+        font-family: 'Merriweather', serif;
+    }
+    hr{
+        background-color: white;
+        border-style: none;
+        height: 2px;
+        
+}
+    h1{
+        color: #66BFBF;
+        font-family: 'Merriweather', serif;
+    
+    }
+
+    h2{
+        color: #66BFBF;
+        font-family: 'Merriweather', serif;
+    }
+
+    h3{
+        color: #66BFBF;
+        font-family: 'Montserrat', sans-serif; 
+    }
+
+    .address{
+        font-family: 'Montserrat', sans-serif; 
+        text-align: center;
+        line-height: 2;
+    }
+    .tele{
+        color: #66BFBF;
+    }
